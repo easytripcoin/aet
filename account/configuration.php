@@ -100,7 +100,7 @@ class JConfig
 	public $cookie_domain = '';
 	public $cookie_path = '';
 	public $asset_id = '1';
-	public $jumi_redirect_error = 'xch';
+	public $jumi_redirect_error = 'account';
 	public $behind_loadbalancer = '0';
 	public $block_floc = '1';
 }
