@@ -1,7 +1,7 @@
 <?php
 
-require_once './xch/bpl/lib/Db_Connect.php';
-require_once './xch/bpl/mods/query_local.php';
+require_once './account/bpl/lib/Db_Connect.php';
+require_once './account/bpl/mods/query_local.php';
 
 use function BPL\Mods\Local\Database\Query\fetch;
 use function BPL\Mods\Local\Database\Query\fetch_all;
@@ -28,7 +28,7 @@ $results = fetch_all(
 if (!empty($results)) {
 	foreach ($results as $result) {
 		if ($result->username === $s) {
-			$url = $http . '://' . $_SERVER['HTTP_HOST'] . $root . '/xch/' .
+			$url = $http . '://' . $_SERVER['HTTP_HOST'] . $root . '/account/' .
 				($sa->payment_mode === 'CODE' ? 'registration' : 'join') . '?s=' . $result->username;
 
 			header('location: ' . $url);
