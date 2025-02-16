@@ -1,0 +1,2104 @@
+Uri: https://cdn.datatables.net/buttons/1.6.4/css/buttons.dataTables.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\buttons\1.6.4\css\buttons.dataTables.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.rtl.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\npm\bootstrap@5.0.2\dist\css\bootstrap.rtl.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\ajax\libs\font-awesome\6.5.2\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Material+Icons
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,600,700
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\materialicons\v143\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v226/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\materialsymbolsoutlined\v226\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/account/activity.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\activity.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/api-keys.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\api-keys.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/billing.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\billing.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/logs.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\logs.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/overview.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\overview.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/referrals.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\referrals.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/security.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\security.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/settings.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\settings.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/account/statements.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\account\statements.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/auto-write.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\auto-write.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/chatbot.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\chatbot.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/fine-tune-models.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\fine-tune-models.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/import.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\import.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/prompt.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\prompt.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/repurpose.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\repurpose.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/rss.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\rss.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/scheduled.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\scheduled.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/aikit/setting.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\aikit\setting.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/app-calender.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\app-calender.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/app-profile.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\app-profile.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/css/jquery.localizationTool.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\css\jquery.localizationTool.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/css/style.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\css\style.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/avasta/css/style.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\avasta\css\style.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/avasta/fonts/avasta.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\avasta\fonts\avasta.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/avasta/fonts/avasta.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\avasta\fonts\avasta.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/avasta/fonts/avasta.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\avasta\fonts\avasta.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/avasta/fonts/avasta.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\avasta\fonts\avasta.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/avasta/fonts/avasta.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\avasta\fonts\avasta.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon-1/flaticon_1.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon-1\flaticon_1.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon-1/Flaticon_1.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon-1\Flaticon_1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon-1/Flaticon_1.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon-1\Flaticon_1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon-1/Flaticon_1.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon-1\Flaticon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon-1/Flaticon_1.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon-1\Flaticon_1.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon-1/Flaticon_1.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon-1\Flaticon_1.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon/flaticon.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon/Flaticon.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon/Flaticon.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/flaticon/Flaticon.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\flaticon\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/icomoon/fonts/icomoon.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\icomoon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/icomoon/fonts/icomoon.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\icomoon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/icomoon/fonts/icomoon.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\icomoon\fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/icomoon/fonts/icomoon.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\icomoon\fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/icomoon/icomoon.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\icomoon\icomoon.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/css/line-awesome.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-brands-400.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-brands-400.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-brands-400.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-brands-400.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-brands-400.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-brands-400.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-regular-400.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-regular-400.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-regular-400.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-regular-400.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-regular-400.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-regular-400.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-solid-900.eot
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-solid-900.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-solid-900.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-solid-900.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-solid-900.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/line-awesome/fonts/la-solid-900.woff2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\line-awesome\fonts\la-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/material-design-iconic-font/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\material-design-iconic-font\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\material-design-iconic-font\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?v=2.4.85
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg?v=2.4.85
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf?v=2.4.85
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2?v=2.4.85
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff?v=2.4.85
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/simple-line-icons/css/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\simple-line-icons\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.eot?-i3a2kk
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.svg?-i3a2kk
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.ttf?-i3a2kk
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff2?-i3a2kk
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff2
+Content Type: application/font-woff2
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff?-i3a2kk
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/simple-line-icons/fonts/Simple-Line-Iconsd41d.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\simple-line-icons\fonts\Simple-Line-Iconsd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/themify-icons/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\themify-icons\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/themify-icons/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\themify-icons\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/themify-icons/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\themify-icons\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/themify-icons/fonts/themify9f24.eot?-fvbane
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\themify-icons\fonts\themify9f24.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/themify-icons/fonts/themify9f24.svg?-fvbane
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\themify-icons\fonts\themify9f24.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/icons/themify-icons/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\icons\themify-icons\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/1.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\1.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/5.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\5.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/8.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\8.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/avatar8.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\avatar8.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/avatar/pic7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\avatar\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/big/img8.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\big\img8.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/blog/screen1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\blog\screen1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/blog/screen2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\blog\screen2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/blog/screen3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\blog\screen3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/blue-tick.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\blue-tick.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card/1.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card\1.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card/2.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card\2.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card/3.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card\3.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card/card1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card\card1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card/card2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card\card2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card/card3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card\card3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card/card4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card\card4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/card2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\card2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/chat-bg.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\chat-bg.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/contacts/Untitled-1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\contacts\Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/contacts/Untitled-2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\contacts\Untitled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/contacts/Untitled-3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\contacts\Untitled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/contacts/Untitled-4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\contacts\Untitled-4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/contacts/Untitled-5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\contacts\Untitled-5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/contacts/user.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\contacts\user.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/files/css.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\files\css.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/files/csv.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\files\csv.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/files/folder.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\files\folder.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/files/html.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\files\html.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/files/mp3.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\files\mp3.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/files/pdf.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\files\pdf.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/files/ppt.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\files\ppt.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/flags.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\flags.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo-full-black.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo-full-black.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/amazon.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\amazon.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/dropbox.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\dropbox.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/figma.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\figma.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/github.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\github.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/google.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\google.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/html.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\html.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/github.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\github.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/pinterest.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\pinterest.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/reddit.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\reddit.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/spotify.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\spotify.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/telegram.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\telegram.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/twitch.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\twitch.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/twitter.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\twitter.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/large/youtube.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\large\youtube.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/slack.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\slack.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/spotify.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\spotify.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logo/twitch.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logo\twitch.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logos/pic1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logos\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/logos/pic2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\logos\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/media/1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\media\1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/media/transaction.mp4
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\media\transaction.mp4
+Content Type: video/mp4
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/no-img-avatar.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\no-img-avatar.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/pattern/pattern5.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\pattern\pattern5.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img-full1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img-full1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img-full2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img-full2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/post/img8.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\post\img8.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/product/1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\product\1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/product/2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\product\2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/product/3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\product\3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/product/4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\product\4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/product/5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\product\5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/product/6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\product\6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/product/7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\product\7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/8.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\8.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/9.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\9.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/cover.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\cover.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/pic1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/port.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\port.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/profile.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\profile.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic10.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic10.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic8.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/small/pic9.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\small\pic9.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/profile/Untitled-2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\profile\Untitled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/qr.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\qr.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/Screenshot_1.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\Screenshot_1.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/Screenshot_2.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\Screenshot_2.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/svg/btc1.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\svg\btc1.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/svg/check.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\svg\check.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/svg/eth2.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\svg\eth2.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/svg/lit3.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\svg\lit3.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/svg/monero.svg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\svg\monero.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/tab/1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\tab\1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/tab/2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\tab\2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/tab/3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\tab\3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/tab/4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\tab\4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/table/Untitled-1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\table\Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/table/Untitled-2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\table\Untitled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/table/Untitled-3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\table\Untitled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/table/Untitled-4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\table\Untitled-4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/Untitled-1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\Untitled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/upgrade-light.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\upgrade-light.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic1.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic2.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic3.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic4.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic5.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic6.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic7.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/images/users/pic8.jpg
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\images\users\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/custom.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\custom.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/chat.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\chat.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/cms.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\cms.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/coin-details.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\coin-details.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/contact.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\contact.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/dashboard-1.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\dashboard-1.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/market-capital.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\market-capital.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/my-wallet.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\my-wallet.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/portfolio.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\portfolio.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/dashboard/profile.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\dashboard\profile.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/demo.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\demo.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/deznav-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\deznav-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/jquery.localizationTool.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\jquery.localizationTool.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/bs-daterange-picker-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\bs-daterange-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/chartist-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\chartist-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/chartjs-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\chartjs-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/clock-picker-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\clock-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/datatables.init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\datatables.init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/flot-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\flot-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/fullcalendar-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\fullcalendar-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/jquery-asColorPicker.init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\jquery-asColorPicker.init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/jquery.validate-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\jquery.validate-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/jqvmap-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\jqvmap-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/material-date-picker-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\material-date-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/morris-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\morris-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/nestable-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\nestable-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/nouislider-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\nouislider-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/pickadate-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\pickadate-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/piety-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\piety-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/select2-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\select2-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/sparkline-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\sparkline-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/sweetalert.init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\sweetalert.init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/toastr-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\toastr-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/plugins-init/widgets-script-init.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\plugins-init\widgets-script-init.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/styleSwitcher.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\styleSwitcher.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/js/translator.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\js\translator.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/apexchart/apexchart.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\apexchart\apexchart.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-datepicker-master/css/bootstrap-datepicker.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-datepicker-master\css\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-datepicker-master/js/bootstrap-datepicker.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-datepicker-master\js\bootstrap-datepicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-daterangepicker/daterangepicker.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-daterangepicker/daterangepicker.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-daterangepicker\daterangepicker.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-datetimepicker\css\bootstrap-datetimepicker.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-select/dist/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-select\dist\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/bootstrap-select/dist/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\bootstrap-select\dist\js\bootstrap-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/chart.js/Chart.bundle.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\chart.js\Chart.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\chartist-plugin-tooltips\js\chartist-plugin-tooltip.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/chartist/css/chartist.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\chartist\css\chartist.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/chartist/js/chartist.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\chartist\js\chartist.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/ckeditor/ckeditor.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\ckeditor\ckeditor.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/clockpicker/css/bootstrap-clockpicker.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\clockpicker\css\bootstrap-clockpicker.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/clockpicker/js/bootstrap-clockpicker.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\clockpicker\js\bootstrap-clockpicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/images/sort_asc.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\images\sort_asc.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/images/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\images\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/images/sort_both.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\images\sort_both.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/images/sort_desc.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\images\sort_desc.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/images/sort_desc_disabled.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\images\sort_desc_disabled.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/js/buttons.html5.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\js\buttons.html5.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/js/dataTables.buttons.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\js\dataTables.buttons.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\js\jquery.dataTables.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/datatables/js/jszip.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\datatables\js\jszip.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/deznav/deznav.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\deznav\deznav.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/draggable/draggable.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\draggable\draggable.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/dropzone/dist/dropzone.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\dropzone\dist\dropzone.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/dropzone/dist/dropzone.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\dropzone\dist\dropzone.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/flot-spline/jquery.flot.spline.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\flot-spline\jquery.flot.spline.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\flot\jquery.flot.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/flot/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\flot\jquery.flot.pie.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/flot/jquery.flot.resize.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\flot\jquery.flot.resize.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/fullcalendar/css/main.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\fullcalendar\css\main.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/fullcalendar/js/main.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\fullcalendar\js\main.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/global/global.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\global\global.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/highlightjs/highlight.pack.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\highlightjs\highlight.pack.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asColor/jquery-asColor.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asColor\jquery-asColor.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asColorPicker/css/asColorPicker.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asColorPicker\css\asColorPicker.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asColorPicker/images/alpha.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asColorPicker\images\alpha.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asColorPicker/images/hue.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asColorPicker\images\hue.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asColorPicker/images/saturation.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asColorPicker\images\saturation.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asColorPicker/images/transparent.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asColorPicker\images\transparent.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asColorPicker/js/jquery-asColorPicker.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asColorPicker\js\jquery-asColorPicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-asGradient/jquery-asGradient.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-asGradient\jquery-asGradient.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-smartwizard/dist/css/smart_wizard.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-smartwizard\dist\css\smart_wizard.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-smartwizard/dist/js/jquery.smartWizard.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-smartwizard\dist\js\jquery.smartWizard.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-sparkline/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-sparkline\jquery.sparkline.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-steps/build/jquery.steps.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-steps\build\jquery.steps.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jquery-validation/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jquery-validation\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jqvmap/css/jqvmap.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jqvmap\css\jqvmap.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jqvmap/js/jquery.vmap.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jqvmap\js\jquery.vmap.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jqvmap/js/jquery.vmap.usa.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jqvmap\js\jquery.vmap.usa.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/jqvmap/js/jquery.vmap.world.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\jqvmap\js\jquery.vmap.world.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/css/lightgallery.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\css\lightgallery.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/fonts/lg.eot?
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\fonts\lg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/fonts/lg.eot?n1z373
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\fonts\lg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/fonts/lg.svg?n1z373
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/fonts/lg.ttf?n1z373
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\fonts\lg.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/fonts/lg.woff?n1z373
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/img/loading.gif
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\img\loading.gif
+Content Type: image/gif
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/img/video-play.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\img\video-play.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/img/vimeo-play.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\img\vimeo-play.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/img/youtube-play.png
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\img\youtube-play.png
+Content Type: image/png
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/lightgallery/js/lightgallery-all.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\lightgallery\js\lightgallery-all.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/metismenu/css/metisMenu.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\metismenu\css\metisMenu.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\moment\moment.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/morris/morris.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\morris\morris.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/nestable2/css/jquery.nestable.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\nestable2\css\jquery.nestable.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/nestable2/js/jquery.nestable.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\nestable2\js\jquery.nestable.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/nouislider/nouislider.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/nouislider/nouislider.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\nouislider\nouislider.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/owl-carousel/owl.carousel.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/owl-carousel/owl.carousel.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\owl-carousel\owl.carousel.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\peity\jquery.peity.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\perfect-scrollbar\css\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/pickadate/picker.date.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\pickadate\picker.date.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/pickadate/picker.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\pickadate\picker.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/pickadate/picker.time.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\pickadate\picker.time.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/pickadate/themes/default.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\pickadate\themes\default.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/pickadate/themes/default.date.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\pickadate\themes\default.date.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/raphael/raphael.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\raphael\raphael.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/select2/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\select2\js\select2.full.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/star-rating/jquery.star-rating-svg.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\star-rating\jquery.star-rating-svg.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/star-rating/star-rating-svg.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\star-rating\star-rating-svg.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/svganimation/svg.animation.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\svganimation\svg.animation.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/svganimation/vivus.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\svganimation\vivus.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/sweetalert2/dist/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\sweetalert2\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/sweetalert2/dist/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\sweetalert2\dist\sweetalert2.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/swiper/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\swiper\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/swiper/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\swiper\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/tagify/dist/tagify.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\tagify\dist\tagify.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/toastr/css/toastr.min.css
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\toastr\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/toastr/js/toastr.min.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\toastr\js\toastr.min.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/assets/vendor/wnumb/wNumb.js
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\assets\vendor\wnumb\wNumb.js
+Content Type: application/x-javascript
+
+Uri: https://zenix.dexignzone.com/xhtml/chart/chartist.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\chart\chartist.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/chart/chartjs.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\chart\chartjs.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/chart/flot.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\chart\flot.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/chart/morris.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\chart\morris.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/chart/peity.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\chart\peity.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/chart/sparkline.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\chart\sparkline.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/add-blog.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\add-blog.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/add-email.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\add-email.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/blog-category.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\blog-category.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/blog.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\blog.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/content-add.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\content-add.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/content.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\content.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/email-template.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\email-template.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/cms/menu.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\cms\menu.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/coin-details.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\coin-details.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-accordion.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-accordion.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-alert.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-alert.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-badge.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-badge.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-breadcrumb.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-breadcrumb.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-button-group.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-button-group.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-button.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-button.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-card.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-card.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-carousel.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-carousel.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-colors.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-colors.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-dropdown.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-dropdown.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-grid.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-grid.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-list-group.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-list-group.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-media-object.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-media-object.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-modal.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-modal.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-navbar.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-navbar.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-object-fit.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-object-fit.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-offcanvas.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-offcanvas.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-pagination.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-pagination.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-placeholders.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-placeholders.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-popover.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-popover.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-progressbar.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-progressbar.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-range-slider.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-range-slider.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-scrollspy.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-scrollspy.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-spinners.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-spinners.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-tab.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-tab.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-toasts.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-toasts.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/components/ui-typography.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\components\ui-typography.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/contact-card.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\contact-card.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/contact-list.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\contact-list.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/ecom-checkout.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\ecom-checkout.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/ecom-customers.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\ecom-customers.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/ecom-invoice.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\ecom-invoice.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/ecom-product-detail.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\ecom-product-detail.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/ecom-product-grid.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\ecom-product-grid.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/ecom-product-list.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\ecom-product-list.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/ecom-product-order.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\ecom-product-order.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/email-compose.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\email-compose.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/email-inbox.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\email-inbox.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/email-read.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\email-read.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/form/form-editor-summernote.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\form\form-editor-summernote.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/form/form-element.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\form\form-element.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/form/form-pickers.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\form\form-pickers.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/form/form-validation-jquery.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\form\form-validation-jquery.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/form/form-wizard.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\form\form-wizard.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/index-2.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\index-2.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/index.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\index-1.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/index.html?theme=2
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\index.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/market-capital.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\market-capital.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/my-wallets.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\my-wallets.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-chat.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-chat.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-empty.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-empty.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-error-400.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-error-400.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-error-403.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-error-403.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-error-404.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-error-404.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-error-500.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-error-500.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-error-503.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-error-503.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-forgot-password.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-forgot-password.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-lock-screen.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-lock-screen.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-login.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-login.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/page-register.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\page-register.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/plugins/lightgallery.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\plugins\lightgallery.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/plugins/map-jqvmap.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\plugins\map-jqvmap.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/plugins/nestable.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\plugins\nestable.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/plugins/noui-slider.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\plugins\noui-slider.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/plugins/select2.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\plugins\select2.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/plugins/sweetalert.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\plugins\sweetalert.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/plugins/toastr.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\plugins\toastr.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/portfolio.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\portfolio.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/post-details.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\post-details.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/profile/activity.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\profile\activity.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/profile/campaigns.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\profile\campaigns.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/profile/documents.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\profile\documents.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/profile/followers.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\profile\followers.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/profile/overview.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\profile\overview.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/profile/projects-details.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\profile\projects-details.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/profile/projects.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\profile\projects.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/project-card.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\project-card.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/project-list.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\project-list.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/table/bootstrap-basic.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\table\bootstrap-basic.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/table/datatable-basic.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\table\datatable-basic.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/tranasactions.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\tranasactions.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/user-list-column.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\user-list-column.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/user-list-datatable.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\user-list-datatable.html
+Content Type: text/html
+
+Uri: https://zenix.dexignzone.com/xhtml/widget-basic.html
+File Name: C:\Downloaded Web Sites\zenix.dexignzone.com\xhtml\widget-basic.html
+Content Type: text/html
+
